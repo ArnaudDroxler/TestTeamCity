@@ -7,6 +7,7 @@ import jetbrains.buildServer.configs.kotlin.v2019_2.version
 import jetbrains.buildServer.configs.kotlin.v2019_2.buildSteps.script
 import jetbrains.buildServer.configs.kotlin.v2019_2.buildSteps.script
 import jetbrains.buildServer.configs.kotlin.v2019_2.SnapshotDependency
+import jetbrains.buildServer.configs.kotlin.v2019_2.ReuseBuilds
 
 version = "2019.2"
 
